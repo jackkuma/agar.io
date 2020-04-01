@@ -6,5 +6,5 @@ agar game
 
 ## 操作
 W 分裂攻擊
-space 分裂食物餵食
 
+space 分裂食物餵食
